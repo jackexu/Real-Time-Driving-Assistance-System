@@ -4,6 +4,9 @@ Used Python (OpenCV and TensorFlow) to display detected lanes, lane-keeping stat
 detected objects with estimated distance, and brake warning on real driving footages.
 
 ### Sample Output
+
+Red numbers are the relative distances.
+
 ![Output](Project_Output.png)
 ![Output With Warning Message](Project_Output_Warning_Message.png)
 
