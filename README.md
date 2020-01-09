@@ -7,5 +7,8 @@ detected objects with estimated distance, and brake warning on real driving foot
 ![Output](Project_Output.png)
 ![Output With Warning Message](Project_Output_Warning_Message.png)
 
+### Enviorment Requirement
+This project was conducted in Python 3.7 with Tensorflow 1.x and OpenCV 3.4.
+
 ### Files Requirement
-In object_detection folder/utils, need to manually re-download pre-trained models.
+Need a pre-trained model in object_detection folder/utils.
