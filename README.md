@@ -1,5 +1,7 @@
 # Real-Time Driving Assistance System
 
+*Authors: Ran Pang and Jiaqi Xu*
+
 Used Python (OpenCV and TensorFlow) to display detected lanes, lane-keeping status, steering angle suggestion,
 detected objects with estimated distance, and brake warning on real driving footages.
 
